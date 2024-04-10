@@ -1,25 +1,4 @@
-<h2 align="center">⚠️ THIS PROJECT IS OUTDATED AND MAY NOT WORK ⚠️ </h2>
 
-<h1 align="center">
-    <br>
-    <p>Discord BOT Dashboard - V2</p>
-<img src="./content/headerimage.png">
-    
-[![Github all releases](https://img.shields.io/github/downloads/LachlanDev/Discord-BOT-Dashboard-V2/total.svg?style=for-the-badge)](https://GitHub.com/LachlanDev/Discord-BOT-Dashboard-V2/releases/) [![GitHub release](https://img.shields.io/github/release/LachlanDev/Discord-BOT-Dashboard-V2.svg?style=for-the-badge)](https://GitHub.com/LachlanDev/Discord-BOT-Dashboard-V2/releases/) [![GitHub issues](https://img.shields.io/github/issues/LachlanDev/Discord-BOT-Dashboard-V2.svg?style=for-the-badge)](https://GitHub.com/LachlanDev/Discord-BOT-Dashboard-V2/issues/) [![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)](https://discord.com/invite/w7B5nKB)
-
-
-</h1>
-
-# 📚 About
-Discord BOT Dashboard V2 is the successor of <a href="https://github.com/LachlanDev/Discord-BOT-Dashboard" target="_blank">Discord BOT Dashboard</a>, Discord BOT Dashboard V2 is made to make **Discord BOT Development** easy, designed to create applications without having to write a single line of code while using a user friendly Web-Dashboard!
-
-# Dashboard Preview:
-<img src="./content/dashprev.JPG">
-
-## 🚀 Installation / Setup
-Head over to the Docs to find all the instructions for setting up and running Discord BOT Dashboard V2. This can be found [here!](https://dbd.lachlan-dev.com/docs/) 
-#### ⌚ Installing Requirements
-Download the latest version from [Releases](https://github.com/LachlanDev/Discord-BOT-Dashboard-V2/releases), open up the root directory and run the following command.
 ```bash
 npm install
 ```
@@ -57,20 +36,7 @@ A list of some of the features that are included in Discord BOT Dashboard V2
 * ⛏️ **Multiple Tools** - Discord BOT Dashboard is packed with multiple tools that are easy to use.
 * 🔌 **Plugins** - Develop and share plugins that can be imported into your project.
 
-## 💡 Contribute
-If you would like to contribute to the project please open a PR (Pull Request) clearly showing your changes.
 
 ## 🔒 Requirements
 * [Node.JS](https://nodejs.org/en/) (v12.3.1 or later)
 
-## 📞 Issues
-If you have any issues feel free to open an issue or join the [Discord Server.](https://discord.com/invite/w7B5nKB)
-
-## 🧲 Extra
-__Created by LachlanDev#8014__
-* [Website](https://lachlan-dev.com)
-* [Twitter](https://twitter.com/LachlanDev)
-* [Instagram](https://www.instagram.com/LachlanDev/)
-* [Discord Server](https://discord.com/invite/w7B5nKB)
-* [Marketplace](https://github.com/LachlanDev/Discord-BOT-Dashboard-Marketplace)
-</br>
